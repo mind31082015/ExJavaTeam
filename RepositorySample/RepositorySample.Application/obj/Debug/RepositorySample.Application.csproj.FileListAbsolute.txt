@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\RepositorySample.Application.dll
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\RepositorySample.Application.pdb
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\Repository.Domain.dll
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\Repository.Infrastructure.dll
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\Repository.Domain.pdb
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\Repository.Infrastructure.pdb
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\obj\Debug\RepositorySample.Application.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\obj\Debug\RepositorySample.Application.dll
+C:\Users\Admin\Desktop\RepositorySample\RepositorySample.Application\obj\Debug\RepositorySample.Application.pdb

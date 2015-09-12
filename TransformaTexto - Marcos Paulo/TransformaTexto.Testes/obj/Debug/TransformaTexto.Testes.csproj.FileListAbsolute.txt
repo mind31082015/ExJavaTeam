@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\TransformaTexto.Testes.dll.config
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\TransformaTexto.Testes.dll
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\TransformaTexto.Testes.pdb
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\TransformaTexto.Services.dll
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\TransformaTexto.Services.pdb
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\obj\Debug\TransformaTexto.Testes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\obj\Debug\TransformaTexto.Testes.dll
+C:\Users\Admin\Desktop\TransformaTexto\TransformaTexto.Testes\obj\Debug\TransformaTexto.Testes.pdb

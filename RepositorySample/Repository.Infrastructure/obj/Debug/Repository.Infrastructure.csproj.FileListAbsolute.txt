@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\Repository.Infrastructure.dll.config
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\Repository.Infrastructure.dll
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\Repository.Infrastructure.pdb
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\Repository.Domain.dll
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\Repository.Domain.pdb
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\obj\Debug\Repository.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\obj\Debug\Repository.Infrastructure.dll
+C:\Users\Admin\Desktop\RepositorySample\Repository.Infrastructure\obj\Debug\Repository.Infrastructure.pdb
